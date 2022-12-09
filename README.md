@@ -1,16 +1,62 @@
-### Hi there 👋
+```
+type languages = { [key: string]: { level: programmingLevel } };
+enum programmingLevel {
+  Newbie,
+  Novice,
+  Intermediate,
+  Experienced,
+  Professional,
+}
 
-<!--
-**Pdzly/Pdzly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+interface Developer {
+  Name: string;
+  languagages: languages;
+  programmingLanguages: languages;
+  hobbies: string[];
+}
 
-Here are some ideas to get you started:
+class Rooki implements Developer {
+  Name: string;
+  languagages: languages;
+  programmingLanguages: languages;
+  hobbies: string[];
+  constructor() {
+    this.Name = "Rooki";
+    this.languagages = {
+      ["German"]: { level: programmingLevel.Professional },
+      ["English"]: { level: programmingLevel.Intermediate },
+    };
+    this.programmingLanguages = {
+      ["TS"]: { level: programmingLevel.Professional },
+      ["JS"]: { level: programmingLevel.Experienced },
+      ["C#"]: { level: programmingLevel.Experienced },
+      ["(G)Lua"]: { level: programmingLevel.Intermediate },
+      ["Python"]: { level: programmingLevel.Novice },
+    };
+    this.hobbies = [
+      "Programming",
+      "Tech Related Stuff",
+      "(Crypto a little bit)",
+      "Privacy",
+    ];
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  async Introduce(){
+    return `Hi all, 
+    
+    my Name is ${this.Name} and my Hobies are ${this.hobbies.join(", ")},
+    
+    My language experience: 
+    ${Object.entries(this.languagages).map((([language, data]) => {
+      return `${language}: ${data.level}\n`
+    }))}
+
+    My Programming Expertiese: 
+    ${Object.entries(this.programmingLanguages).map((([language, data]) => {
+      return `${language}: ${data.level}\n`
+    }))}
+    
+    If you want to talk or chat just hit me up ;)`
+  }
+}
+```
