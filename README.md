@@ -1,4 +1,4 @@
-```
+```typescript
 type languages = { [key: string]: { level: programmingLevel } };
 enum programmingLevel {
   Newbie,
