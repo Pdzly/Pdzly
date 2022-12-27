@@ -11,4 +11,4 @@ My Expertise (good => bad):
 [![My Skills](https://skillicons.dev/icons?i=ts,cs,react,nodejs,js,angular,lua,python,discord,docker,openshift&theme=dark)](https://skillicons.dev)
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Thanks for visiting me ;)&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Thanks_for_visiting_me ;)&width=800&height=400)](https://github.com/Akshay090/svg-banners)
