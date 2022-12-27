@@ -6,6 +6,9 @@ If you are intrested, check out some repositories
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pdzly&theme=git-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&border=DD2727&ring=D8DD23)](https://git.io/streak-stats)
 
-My Expertise:
+My Expertise (good => bad):
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,js,lua,python&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,react,nodejs,js,angular,lua,python,discord,docker,openshift&theme=dark)](https://skillicons.dev)
+
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Thanks for visiting me ;)&width=800&height=400)](https://github.com/Akshay090/svg-banners)
