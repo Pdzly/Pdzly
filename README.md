@@ -1,6 +1,4 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcome%20to%20Rookis%20Profile!&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
-
-If you are intrested, check out some repositories
                   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pdzly&count_private=true&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdzly&theme=dark)
