@@ -8,6 +8,3 @@
 My Expertise (good => bad):
 
 [![My Skills](https://skillicons.dev/icons?i=ts,cs,react,nodejs,js,angular,lua,python,docker,openshift&theme=dark)](https://skillicons.dev)
-
-
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Thanks!&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
