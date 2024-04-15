@@ -6,4 +6,4 @@
 
 My Expertise (good => bad):
 
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,react,nodejs,js,angular,lua,python,docker,openshift&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,spring,java,python,dotnet,cs,nodejs,js,materialui,lua,nestjs,docker,openshift,angular&theme=dark&perline=6)](https://skillicons.dev)
